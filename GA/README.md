@@ -6,4 +6,4 @@ We aim to implement a flexible and rock-solid software able to efficiently solve
 ## API Reference
 http://www.jfree.org/jfreechart/api/javadoc/
 ## Contributors
-pcumino <pedro.cumino@gmail.com>
+pcumino [pedro.cumino@gmail.com]
