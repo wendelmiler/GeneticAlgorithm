@@ -58,7 +58,6 @@ public class Init {
 	         for(Individual ind : bestIndividuals){
 	        	 counter++;
 	        	 bestInd.add(counter,ind.getFitness());
-	        	 //System.out.println("Pop "+counter+": "+ind.getFitness());
 	         }
 	         dataset.addSeries( bestInd );
 	         if(k==2){                   
